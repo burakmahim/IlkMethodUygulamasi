@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DegerDondurmeyenVoidMethod", "DegerDondurmeyenVoidMethod\DegerDondurmeyenVoidMethod.csproj", "{51CABC97-08BE-43F5-A49E-D35188D2DAEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TamsayiDondurenMethod", "TamsayiDondurenMethod\TamsayiDondurenMethod.csproj", "{32EC08BD-BFF5-46F2-B92C-EDDA236FC3E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametreAlipDegerDondurenMethod", "ParametreAlipDegerDondurenMethod\ParametreAlipDegerDondurenMethod.csproj", "{9BD7A620-78FE-46FF-8D0B-99F805973555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParametreAlipDegerDondurmeyenMethod", "ParametreAlipDegerDondurmeyenMethod\ParametreAlipDegerDondurmeyenMethod.csproj", "{F5D3BCD6-AFF7-42CD-85B3-53D1CAFB57D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Çözüm Öğeleri", "Çözüm Öğeleri", "{C94A082F-0FCE-4F36-A0BA-D82EFCE60478}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51CABC97-08BE-43F5-A49E-D35188D2DAEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51CABC97-08BE-43F5-A49E-D35188D2DAEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51CABC97-08BE-43F5-A49E-D35188D2DAEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51CABC97-08BE-43F5-A49E-D35188D2DAEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32EC08BD-BFF5-46F2-B92C-EDDA236FC3E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32EC08BD-BFF5-46F2-B92C-EDDA236FC3E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32EC08BD-BFF5-46F2-B92C-EDDA236FC3E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32EC08BD-BFF5-46F2-B92C-EDDA236FC3E7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BD7A620-78FE-46FF-8D0B-99F805973555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BD7A620-78FE-46FF-8D0B-99F805973555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BD7A620-78FE-46FF-8D0B-99F805973555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BD7A620-78FE-46FF-8D0B-99F805973555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5D3BCD6-AFF7-42CD-85B3-53D1CAFB57D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5D3BCD6-AFF7-42CD-85B3-53D1CAFB57D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5D3BCD6-AFF7-42CD-85B3-53D1CAFB57D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5D3BCD6-AFF7-42CD-85B3-53D1CAFB57D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E809CCDC-8A91-444C-8214-C5FFAE39745D}
+	EndGlobalSection
+EndGlobal
